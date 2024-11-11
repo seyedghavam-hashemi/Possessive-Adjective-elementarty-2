@@ -1,0 +1,419 @@
+@import url('https://v1.fontapi.ir/css/Vazir');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+
+body{
+  background-image: url('../img/bg-1-3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+
+}
+
+
+
+.titre{
+    min-height: 100%;
+    height: 32vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.section{
+    text-align: center;
+    padding: 5px 5px;
+}
+
+/*
+.uc {
+  text-transform: uppercase;
+}
+
+.lc {
+  text-transform: lowercase;
+}
+*/
+.logo {
+  width: 100%;
+ height: 25vh;
+  margin-top: 3vh;
+  margin-left: 0%; 
+  align-items: center;
+
+}
+.logoPic {
+  margin:auto;
+  /*display: block;*/
+  width: 15%;
+  height: 25vh;
+  /*margin-right: 44%;*/
+ }
+.flex-parent{
+  justify-content: center;
+  width: 100%;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+.answer-ul {
+  width:100%;
+  align-items:center;
+  
+
+}
+.answer-ul .answer-li{
+  text-decoration: none;
+  list-style-type: none;
+
+}
+
+.ckeckBox-li{
+  margin-right: 5px;
+}
+/*question-1*/
+
+.bg-qu-1{
+    min-height: 100%;
+    height: 75vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pt-1{
+  text-transform: uppercase;
+  line-height: 6vh;
+  font-size: 3vh;
+  color:#fff;
+  font-weight: 700;
+}
+
+
+
+.pe-1{  
+    font-size: 3vh;
+   /* text-transform:uppercase; */
+    color:#fff;
+    line-height: 6vh;
+    font-weight: 1000;
+  }
+
+
+   
+/*question-2*/
+.bg-qu-2{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-2{  
+    font-size: 3vh;
+    font-weight: 1000;
+    color:#fff;
+    line-height: 6vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+
+
+
+
+/*question-3*/
+.bg-qu-3{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-3{  
+    color:#fff;
+    font-size: 3vh;
+    font-weight: 1000;
+    line-height: 6vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-4*/
+.bg-qu-4{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-4{  
+    color:#fff;
+    font-size: 3vh;
+    font-weight: 1000;
+    line-height: 6vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+/*question-5*/
+.bg-qu-5{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-5{  
+    color:#fff;
+    font-size: 3vh;
+    font-weight: 1000;
+    line-height: 6vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-6*/
+.bg-qu-6{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-6{  
+    color:#fff;
+    font-size: 3vh;
+    font-weight: 1000;
+    line-height: 6vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-7*/
+.bg-qu-7{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-7{  
+    color:#fff;
+    font-size: 3vh;
+    font-weight: 1000;
+    /*text-transform:uppercase; */
+    line-height: 6vh;
+
+  
+  }
+/*question-8*/
+.bg-qu-8{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 65vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-8{  
+    color:#fff;
+    font-size: 3vh;
+    font-weight: 1000;
+    line-height: 6vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-9*/
+.bg-qu-9{
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+  height: 65vh;
+  margin-bottom: 0vh;
+  text-align: center;
+
+}
+
+.pe-9{  
+  color:#fff;
+  font-size: 3vh;
+  font-weight: 1000;
+  line-height: 6vh;
+
+  /*text-transform:uppercase; */
+
+}
+
+
+
+
+
+/*Footer*/
+footer{
+  width: 100%;
+  position: relative;
+  z-index: 0;
+  top: 1vh;
+  margin-right: 0%;
+  align-items: center;
+  background-image: url(../img/bg-1-9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#footer_contacts_1, #footer_contacts_2{
+  width: 100%;
+  text-align:center;
+  margin-right: 0%;
+  margin-top: 1vh;
+  }
+
+
+
+
+
+
+
+
+.mySelfDiv{
+  width: 100%;
+  text-align: center;
+
+}
+.mySelf{
+  margin-right: 0%;
+  font-size: 5vh;
+  font-weight: bold;
+  line-height: 2vh;
+  color:#fff;
+
+
+}
+.myUni{
+  margin-right: 0%;
+  font-size: 2vh;
+  font-weight: bold;
+  line-height: 2vh;
+  color:#fff;
+}
+
+
+
+
+#gateCloset{
+  line-height: 3vh;
+  margin-bottom: 3vh;
+}
+
+
+
+
+
+
+
+.gate-size{
+    height: 300px;
+    width:220px
+}
+
+.gateOpen{
+
+}
+/*
+@media(max-width:568px){
+    
+  }
+  
+*/
+
+
+#instagram_address{
+  height: 2em;
+  width: 2em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+#email-address{
+  height: 2em;
+  width: 2em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+
+#address{
+  height: 2.5em;
+  width: 2.5em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+#mobile-address{  
+  height: 2em;
+  width: 1.5em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;}
+#tel-address{ 
+   height: 2em;
+  width: 2.5em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
